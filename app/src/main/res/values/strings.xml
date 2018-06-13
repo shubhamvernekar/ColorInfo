@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ColorInfo</string>
+    <string name="find_color">Find Color</string>
+    <string name="todo">TODO</string>
+</resources>
